@@ -1,0 +1,16 @@
+[
+    {
+        "fName": "John",
+        "lName": "Ilozor",
+        "pin": "1969",
+        "accNum": 8244712384,
+        "balance": 2000.0
+    },
+    {
+        "fName": "peter",
+        "lName": "okafor",
+        "pin": "1234",
+        "accNum": 8244710721,
+        "balance": 3000.0
+    }
+]
